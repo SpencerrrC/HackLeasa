@@ -7,7 +7,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "generate-embeddings": "node src/generate-embeddings.js",
-    "demo": "node src/demo-search.js"
+    "demo": "node src/demo-search.js",
+    "demo-vector": "node src/demo-vector-search.js"
   },
   "repository": {
     "type": "git",
